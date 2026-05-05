@@ -3,7 +3,7 @@
 ## 1. Topology Overview
 The goal of this lab is to establish communication between two departments: **Finance (VLAN 10)** and **Information Technology (VLAN 20)**. Since these departments reside in different broadcast domains, a Layer 3 device (Router) is required to route traffic between them.
 
-![Topology Diagram](./topology-diagram.png) *(Note: Ensure your image file is named topology-diagram.png)*
+![Topology Diagram](./topology-diagram.png) 
 
 ## 2. Objectives
 - Design and implement a VLAN-based network segmentation.
