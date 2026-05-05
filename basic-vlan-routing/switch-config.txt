@@ -1,0 +1,18 @@
+! Membuat VLAN
+vlan 10
+ name FINANCE
+vlan 20
+ name IT
+
+! Mengatur port access ke PC
+interface FastEthernet0/1
+ switchport mode access
+ switchport access vlan 10
+!
+interface FastEthernet0/2
+ switchport mode access
+ switchport access vlan 20
+
+! Mengatur port Trunk ke arah Router
+interface FastEthernet0/24
+ switchport mode trunk
