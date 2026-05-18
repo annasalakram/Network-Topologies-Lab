@@ -38,12 +38,4 @@ Below is a list of the labs included in this repository:
 4.  Download the `.pkt` or `.gns3` file to run the simulation on your local machine.
 
 ---
-
-## 👨‍💻 About Me
-I am an aspiring Network & Infrastructure Engineer passionate about building secure, efficient, and scalable network architectures.
-
-- **Skills:** Cisco IOS, Linux System Admin, Subnetting, Network Troubleshooting.
-- **Connect with me:** [Link to your LinkedIn/Portfolio]
-
----
 *Last updated: 2026-05-06*
